@@ -1,0 +1,15 @@
+D:\Development\Analogue Clock\bin\Debug\net6.0\Analogue Clock.exe
+D:\Development\Analogue Clock\bin\Debug\net6.0\Analogue Clock.deps.json
+D:\Development\Analogue Clock\bin\Debug\net6.0\Analogue Clock.runtimeconfig.json
+D:\Development\Analogue Clock\bin\Debug\net6.0\Analogue Clock.dll
+D:\Development\Analogue Clock\bin\Debug\net6.0\Analogue Clock.pdb
+D:\Development\Analogue Clock\obj\Debug\net6.0\Analogue Clock.csproj.AssemblyReference.cache
+D:\Development\Analogue Clock\obj\Debug\net6.0\Analogue Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Analogue Clock\obj\Debug\net6.0\Analogue Clock.AssemblyInfoInputs.cache
+D:\Development\Analogue Clock\obj\Debug\net6.0\Analogue Clock.AssemblyInfo.cs
+D:\Development\Analogue Clock\obj\Debug\net6.0\Analogue Clock.csproj.CoreCompileInputs.cache
+D:\Development\Analogue Clock\obj\Debug\net6.0\Analogue Clock.dll
+D:\Development\Analogue Clock\obj\Debug\net6.0\refint\Analogue Clock.dll
+D:\Development\Analogue Clock\obj\Debug\net6.0\Analogue Clock.pdb
+D:\Development\Analogue Clock\obj\Debug\net6.0\Analogue Clock.genruntimeconfig.cache
+D:\Development\Analogue Clock\obj\Debug\net6.0\ref\Analogue Clock.dll
